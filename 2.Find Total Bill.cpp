@@ -28,7 +28,7 @@ int main() {
      else{
          bill=50*10+50*15+50*20+50*25+(unit-200)*30;
          cout<<bill<<endl;
-         cout<<"Thanks for Visit"
+         cout<<"Thanks for Visit";
          }
      
 }
